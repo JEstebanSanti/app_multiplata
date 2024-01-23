@@ -1,0 +1,4 @@
+#Mon Jan 22 22:49:54 MST 2024
+base.0=C\:\\Users\\JBan\\Desktop\\flutter\\practica_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
